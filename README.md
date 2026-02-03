@@ -1,4 +1,4 @@
-#📄 AWS Text Detection & Translation using Rekognition and Translate
+📄 AWS Text Detection & Translation using Rekognition and Translate
 
 This project demonstrates how to extract text from an image stored in Amazon S3 using **AWS Rekognition** and then translate the detected text into English using **AWS Translate**.
 It is a simple yet practical cloud-based application showcasing the use of multiple AWS AI services together.
